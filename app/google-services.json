@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "913973973473",
+    "firebase_url": "https://iwbc-academy.firebaseio.com",
+    "project_id": "iwbc-academy",
+    "storage_bucket": "iwbc-academy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913973973473:android:7f9dcd866e523988b302a0",
+        "android_client_info": {
+          "package_name": "com.example.iwbcacademy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913973973473-rsmnmceugo2dsg1ke5cfedk94pv3c08g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALHB9Pl48Y0RYP8-eeD0nleokCat7-yGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913973973473-rsmnmceugo2dsg1ke5cfedk94pv3c08g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
